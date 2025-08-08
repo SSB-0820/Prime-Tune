@@ -23,7 +23,7 @@ Copy code
 └── README.md         # Project documentation  
 📖 How to Use
 
- 
+git clone https://github.com/SSB-0820/Prime-Tune.git
 Set up a local PHP server (e.g., XAMPP, WAMP, or MAMP).
 Place the project files in the server's root directory.
 Open index.html in your browser.
